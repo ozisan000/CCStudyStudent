@@ -1,16 +1,27 @@
-﻿using System;
+﻿using System;   //using宣言
 
-/// <summary>
-/// エントリポイントとなるクラス
-/// </summary>
-internal class Program
+namespace CCharpStudentStudy    //名前空間
 {
     /// <summary>
-    /// エントリポイントメソッド
+    /// エントリポイントとなるクラス
     /// </summary>
-    /// <param name="args"></param>
-    static void Main(string[] args)
+    internal class Program
     {
-        Console.WriteLine("HelloWorld");
+        /// <summary>
+        /// エントリポイントメソッド
+        /// </summary>
+        /// <param name="args"></param>
+        static void Main(string[] args)
+        {
+            //HelloWorld!   これはコメントです
+            Console.WriteLine("HelloWorld");   //文
+
+
+            //===================================================
+            //ここから各チャプターのプログラムを書いていこう！
+            //===================================================
+            Chapter1Introduction chapter1 = new Chapter1Introduction();
+            chapter1.Main();
+        }
     }
 }
