@@ -1,0 +1,15 @@
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\bin\Debug\net6.0\CCharpStudentStudy.exe
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\bin\Debug\net6.0\CCharpStudentStudy.deps.json
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\bin\Debug\net6.0\CCharpStudentStudy.runtimeconfig.json
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\bin\Debug\net6.0\CCharpStudentStudy.dll
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\bin\Debug\net6.0\CCharpStudentStudy.pdb
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\obj\Debug\net6.0\CCharpStudentStudy.csproj.AssemblyReference.cache
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\obj\Debug\net6.0\CCharpStudentStudy.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\obj\Debug\net6.0\CCharpStudentStudy.AssemblyInfoInputs.cache
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\obj\Debug\net6.0\CCharpStudentStudy.AssemblyInfo.cs
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\obj\Debug\net6.0\CCharpStudentStudy.csproj.CoreCompileInputs.cache
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\obj\Debug\net6.0\CCharpStudentStudy.dll
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\obj\Debug\net6.0\refint\CCharpStudentStudy.dll
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\obj\Debug\net6.0\CCharpStudentStudy.pdb
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\obj\Debug\net6.0\CCharpStudentStudy.genruntimeconfig.cache
+F:\Code\CCharp\CCharpStudentStudy\CCharpStudentStudy\obj\Debug\net6.0\ref\CCharpStudentStudy.dll
