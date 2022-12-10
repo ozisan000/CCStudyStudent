@@ -1,32 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Code\\CCharp\\CCharpStudentStudy\\CCharpStudentStudy\\CCharpStudentStudy.csproj": {}
+    "C:\\Users\\eiden\\Documents\\visualproject\\CCharp\\CCStudyStudent\\CCharpStudentStudy\\CCharpStudentStudy.csproj": {}
   },
   "projects": {
-    "F:\\Code\\CCharp\\CCharpStudentStudy\\CCharpStudentStudy\\CCharpStudentStudy.csproj": {
+    "C:\\Users\\eiden\\Documents\\visualproject\\CCharp\\CCStudyStudent\\CCharpStudentStudy\\CCharpStudentStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code\\CCharp\\CCharpStudentStudy\\CCharpStudentStudy\\CCharpStudentStudy.csproj",
+        "projectUniqueName": "C:\\Users\\eiden\\Documents\\visualproject\\CCharp\\CCStudyStudent\\CCharpStudentStudy\\CCharpStudentStudy.csproj",
         "projectName": "CCharpStudentStudy",
-        "projectPath": "F:\\Code\\CCharp\\CCharpStudentStudy\\CCharpStudentStudy\\CCharpStudentStudy.csproj",
-        "packagesPath": "C:\\Users\\eiden\\.nuget\\packages\\",
-        "outputPath": "F:\\Code\\CCharp\\CCharpStudentStudy\\CCharpStudentStudy\\obj\\",
+        "projectPath": "C:\\Users\\eiden\\Documents\\visualproject\\CCharp\\CCStudyStudent\\CCharpStudentStudy\\CCharpStudentStudy.csproj",
+        "packagesPath": "C:\\Users\\ohs10558\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eiden\\Documents\\visualproject\\CCharp\\CCStudyStudent\\CCharpStudentStudy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\eiden\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ohs10558\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
